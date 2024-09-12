@@ -895,10 +895,6 @@ body {
     flex-wrap: wrap;
     gap: 4rem;
   }
-  *{
-    margin: 0;
-    padding: 0;
-  }
   #imgages {
     margin-top: 30px;
   }
